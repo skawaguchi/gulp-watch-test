@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "0.0.2",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-debug": "^1.0.1",
+    "gulp-less": "^1.3.6",
+    "gulp-watch": "^2.0.0",
+    "gulp-watch-less": "^0.2.1",
+    "requiredir": "^1.0.6"
+  },
+  "engines": {
+    "node": ">=0.10.32"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://my-real-repo-url/goes-here.git"
+  }
+}
